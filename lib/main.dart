@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
 //1- git add .
 
 //2- git commit -m " new message public"
-
+//git push -u origin master
 /*3- git push origin master -f */   // or //    /* 3- git push -u origin master */
 //172.27.5.3-172.27.255.254 The new
 //172.31.21.3-172.31.25.254 The old
